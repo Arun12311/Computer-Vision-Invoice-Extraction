@@ -64,6 +64,3 @@ To run this project, you need the following dependencies:
 - Ensure that your Google API key has the necessary permissions to access the Gemini AI model.
 - The application currently supports image formats JPG and PNG.
 
-## License
-
-This project is for educational purposes. Please ensure compliance with Google's API usage policies when using this application.
